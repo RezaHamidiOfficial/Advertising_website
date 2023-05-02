@@ -1,0 +1,55 @@
+* {
+    font-family: 'Vazir', sans-serif;
+  }
+  
+  .text-white .home_screen_slide_main .item {
+    direction: rtl;
+  }
+  
+  .fix .wow .panel-group {
+    direction: rtl;
+  }
+  
+  .fix.wow.fadeIn .tab-pane.active+.tab-pane.active {
+    display: none !important;
+  }
+  
+  .list_screen_slide .item a img {
+    width: 233px;
+  }
+  
+  #mc-form .input-group {
+    direction: rtl;
+  }
+  
+  #mc-form .input-group button {
+    border-radius: 100px 0 0 100px;
+  }
+  
+  #mc-form .input-group input {
+    border-radius: 0 100px 100px 0 !important;
+  }
+  
+  @media (max-width: 1199px) {
+    .feature-area .tab-pane img {
+      width: 207px;
+    }
+  }
+  
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-right .med-button {
+    margin-right: 30px;
+  }
+  
+  @media (max-width: 992px) {
+    .navbar-right .med-button {
+      margin-right: 10px;
+    }
+  }
+  
+  /*# sourceMappingURL=papionet_landing.css.map */
